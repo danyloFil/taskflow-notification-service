@@ -19,7 +19,7 @@ spring:
     cache: true
 
 email:
-  sender:git
+  sender:
     address:
     name: TaskFlow Support
 
